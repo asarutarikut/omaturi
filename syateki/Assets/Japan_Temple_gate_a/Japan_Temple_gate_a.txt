@@ -1,0 +1,55 @@
+"Gate of the Temple in Japan. TypeA"
+This is a model of temple gate and other parts in Japan.
+
+--- GENERAL ---
+* This model is suitable for use in consumer game machine.
+* Units used: centimeter
+* It is about 220 to 512 pixels per 1 meter. ( Exception. Hidden portions )
+* Scene objects are organized by groups.
+* Originally created with Autodesk Maya 2009
+
+Mesh totals:
+Verts: 27394
+Triangle faces: 37833
+
+--- TEXTURES ---
+* PSD Texture included. ( Separate layers to each type, Resolution of the multiplier of 2 )
+
+* LayerSet name rule
+UV   (UV snapshot)
+OCC  (Occlusion)
+W    (White)
+B    (Black)
+HL   (Hard Light)
+BASE and BG (Base texture)
+MASK (White Mask)
+NRM  (Normal map by CrazyBump)
+SPC  (Specular map)
+
+* Texture file name (TGA format is *_cmap, *_nmap)
+
+opt_bench_azumaya_a.psd 1024 * 1024
+opt_carrier_daisha_a.psd 1024 * 512
+opt_door_wood_big_a.psd 512 * 1024
+opt_fence_saku_a.psd 512 * 256
+opt_fence_saku_b.psd 1024 * 512
+opt_gate_wood_a.psd 1024 * 1024
+opt_graveStone_haka_a.psd 512 * 512
+opt_graveStone_haka_b.psd 512 * 512
+opt_graveStone_haka_c.psd 256 * 512
+opt_graveStone_haka_d.psd 128 * 256
+opt_graveStone_haka_e.psd 256 * 256
+opt_idol_makara_a.psd 128 * 512
+opt_lantern_chouchin_a.psd 512 * 1024
+opt_lantern_tourou_a_body.psd 512 * 512
+opt_lantern_tourou_a_top.psd 256 * 512
+opt_roof_wood_a.psd 512 * 1024
+opt_tile_kawara_a.psd 128 * 128
+opt_tile_kawara_b.psd 128 * 128
+opt_tile_kawara_top_a.psd  128 * 128
+opt_tile_kawara_top_b.psd  128 * 512
+opt_tile_tomebuta_a.psd 128 * 128
+opt_wall_itabei_a.psd 512 * 1024
+
+--- PRESENTATION IMAGES ---
+* All preview images are rendered with MentalRay 3.7.1.26 as Renderer.
